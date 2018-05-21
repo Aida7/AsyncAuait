@@ -1,0 +1,15 @@
+C:\Users\СадыковаА\source\repos\AsyncAuait\AsyncAuait\bin\Debug\AsyncAuait.exe.config
+C:\Users\СадыковаА\source\repos\AsyncAuait\AsyncAuait\bin\Debug\AsyncAuait.exe
+C:\Users\СадыковаА\source\repos\AsyncAuait\AsyncAuait\bin\Debug\AsyncAuait.pdb
+C:\Users\СадыковаА\source\repos\AsyncAuait\AsyncAuait\obj\Debug\AsyncAuait.csprojResolveAssemblyReference.cache
+C:\Users\СадыковаА\source\repos\AsyncAuait\AsyncAuait\obj\Debug\MainWindow.g.cs
+C:\Users\СадыковаА\source\repos\AsyncAuait\AsyncAuait\obj\Debug\App.g.cs
+C:\Users\СадыковаА\source\repos\AsyncAuait\AsyncAuait\obj\Debug\AsyncAuait_MarkupCompile.cache
+C:\Users\СадыковаА\source\repos\AsyncAuait\AsyncAuait\obj\Debug\AsyncAuait_MarkupCompile.lref
+C:\Users\СадыковаА\source\repos\AsyncAuait\AsyncAuait\obj\Debug\MainWindow.baml
+C:\Users\СадыковаА\source\repos\AsyncAuait\AsyncAuait\obj\Debug\AsyncAuait.g.resources
+C:\Users\СадыковаА\source\repos\AsyncAuait\AsyncAuait\obj\Debug\AsyncAuait.Properties.Resources.resources
+C:\Users\СадыковаА\source\repos\AsyncAuait\AsyncAuait\obj\Debug\AsyncAuait.csproj.GenerateResource.cache
+C:\Users\СадыковаА\source\repos\AsyncAuait\AsyncAuait\obj\Debug\AsyncAuait.csproj.CoreCompileInputs.cache
+C:\Users\СадыковаА\source\repos\AsyncAuait\AsyncAuait\obj\Debug\AsyncAuait.exe
+C:\Users\СадыковаА\source\repos\AsyncAuait\AsyncAuait\obj\Debug\AsyncAuait.pdb
